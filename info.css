@@ -1,0 +1,45 @@
+*{
+    font-family: Tahoma;
+}
+.container{
+    width: 900px;
+    height: 830px;
+    background-color: rgb(131, 131, 131,.3);
+    color: #fff;
+    margin-left: 200px;
+}
+.container h1{
+    padding: 10px 0 0 50px;
+    letter-spacing: 2px;
+}
+.container p{
+    padding: 10px 0 0 50px;
+    letter-spacing: 2px;
+    line-height: 2;
+}
+#last{
+    width: 700px;
+    height:70px;
+    margin: 20px;
+    padding: 10px 10px 0 5px ;
+}
+#last label{
+    padding-right: 5px ;
+    font-size: 20px;
+    color: #fff;
+    margin-left: 70px;
+}
+.mail{
+    width: 300px;
+    height: 30px;
+    background-color: #000;
+    color: #fff;
+    margin: 5px 0 10px 0;
+}
+.btn{
+    width: 70px;
+    height: 30px;
+    background-color: aquamarine;
+}
+
+
